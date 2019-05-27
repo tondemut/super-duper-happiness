@@ -11602,6 +11602,7 @@ h5,
   background: linear-gradient(135deg, #0066FF 0%, #003366 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0066FF', endColorstr='#31de79', GradientType=1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -11861,6 +11862,7 @@ h5,
   background: linear-gradient(135deg, #0066FF 0%, #003366 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0066FF', endColorstr='#31de79', GradientType=1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -12091,6 +12093,7 @@ h5,
   background: linear-gradient(135deg, #0066FF 0%, #003366 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0066FF', endColorstr='#31de79', GradientType=1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -12881,6 +12884,7 @@ h5,
   background: linear-gradient(135deg, #0066FF 0%, #003366 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0066FF', endColorstr='#31de79', GradientType=1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -13222,6 +13226,7 @@ textarea.form-control {
   background: linear-gradient(135deg, #0066FF 0%, #003366 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0066FF', endColorstr='#31de79', GradientType=1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -13482,6 +13487,7 @@ textarea.form-control {
 .mfp-with-zoom.mfp-bg {
   opacity: 0;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
